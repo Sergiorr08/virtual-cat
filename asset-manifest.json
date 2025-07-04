@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/virtual-cat/static/css/main.1eb59b69.css",
+    "main.js": "/virtual-cat/static/js/main.4ea34396.js",
+    "index.html": "/virtual-cat/index.html",
+    "main.1eb59b69.css.map": "/virtual-cat/static/css/main.1eb59b69.css.map",
+    "main.4ea34396.js.map": "/virtual-cat/static/js/main.4ea34396.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eb59b69.css",
+    "static/js/main.4ea34396.js"
+  ]
+}
